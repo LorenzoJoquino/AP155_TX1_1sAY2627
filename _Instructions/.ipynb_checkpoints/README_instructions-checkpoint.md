@@ -43,3 +43,13 @@ In your copied file (which should be in your folder), rename the notebook so tha
 Do the exercises 
 Commit and push to your forked repo \
 Create a pull request 
+
+
+## 29 September 2026 
+Sync your fork \
+Pull the updates (`git pull origin main`) \
+Make a copy of `6Eigs/6Eigs_surname.ipynb` in your folder \
+In your copied file (which should be in your folder), rename the notebook so that **"Surname"** becomes your actual surname \
+Do the exercises 
+Commit and push to your forked repo \
+Create a pull request 
