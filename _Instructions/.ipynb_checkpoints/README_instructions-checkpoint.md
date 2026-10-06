@@ -53,3 +53,15 @@ In your copied file (which should be in your folder), rename the notebook so tha
 Do the exercises 
 Commit and push to your forked repo \
 Create a pull request 
+
+
+## 06 October 2026
+box.liknayan might not be working, so in the event it doesn't work, we'll do the following:  \
+Go to the notebook 7RootFinding_surname.ipynb \
+Make it a colab notebook by using githubtocolab.com (change the "github.com") \
+Make a copy in Drive \
+Change the file to your SURNAME \
+Work on the exercises \
+Upload the colab notebook you worked on in submission bin in Google Classroom (to be made) \
+
+If box.liknayan is working, we'll do the normal pulling and syncing
